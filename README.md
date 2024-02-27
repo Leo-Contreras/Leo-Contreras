@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy @Leo-Contreras
 
 ## Acerca de mí
-Soy un profesional que trabaja en un organismo de gobierno, específicamente en una agencia digital. Mi pasión por la tecnología y mi amor por crear cosas nuevas me han llevado a especializarme en el desarrollo de software y la creación de sitios web personalizados a través de mi empresa, Web Nexus.
+Soy un Ingeniero en Computación. Mi pasión por la tecnología y mi amor por crear cosas nuevas me han llevado a especializarme en el desarrollo de software y la creación de sitios web personalizados.
 
 ## Intereses
 - Me apasiona la tecnología y estoy siempre al tanto de las últimas tendencias en el mundo digital.
